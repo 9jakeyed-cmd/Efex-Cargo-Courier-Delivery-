@@ -1,0 +1,1 @@
+export default function Home(){return <main><h1>Efex Cargo Courier Delivery</h1><p>Connecting the UK to the World with Speed, Trust & Precision.</p></main>}
