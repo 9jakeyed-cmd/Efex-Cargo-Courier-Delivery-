@@ -1,0 +1,1 @@
+export function generateTrackingNumber(n:number){return `EFX-${n}`;}
